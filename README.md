@@ -11,9 +11,4 @@ algorithms like Linear Regression, Lasso and
 DecisionTree Regressor and achieved the
 accuracy of 0.845 with Linear Regression,
 on which Model was built.
-Exported the Model to a Pickle file, then
-wrote a Python Flask Server that acts as a
-back-end server and consumes this pickle file.
-A website that gets the requirements and
-then gives the Predicted Price based on the
-Locations.
+
